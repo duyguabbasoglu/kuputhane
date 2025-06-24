@@ -192,3 +192,6 @@ Her bir container içindeki alt bileşenleri gösterir.
   ## 4C Mimarisi Diyagramı
 
 ![4C Mimarisi](./assets/4C.diagram.png)
+
+
+TESETSETSETSETS
